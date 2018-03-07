@@ -1,6 +1,6 @@
 {
   "name": "react-social-login-react-15",
-  "version": "3.4.2",
+  "version": "1.0.0",
   "description": "React Component for Login via Social Providers -- forked",
   "main": "dist/social-login.js",
   "files": [
